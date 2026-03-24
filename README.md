@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Fraud Detection System
 
 FastAPI backend for managing users, financial transactions, fraud logs, and alert records in a fraud detection workflow.
@@ -152,3 +153,7 @@ demo-project/
 |-- README.md               # Project documentation
 |-- requirements.txt        # Python dependency definitions
 ```
+=======
+
+afjdkajdfklf
+>>>>>>> b3433134bbe9a671bce3848da2dfd7aa37558bd6
